@@ -5,7 +5,7 @@
 Fan de las camionetas 🛻
 
 # 💫 About Me:
-Soy  backend developer<br>🚀 Mi Enfoque para 2026 Actualmente centrado en dominar el ecosistema Full Stack, con un compromiso de código diario.<br>Front-end: Creando interfaces limpias y funcionales con HTML5, CSS3 y JavaScript moderno. * Back-end: Explorando la potencia de PHP y MySQL para la gestión de datos. * Objetivo: Desarrollar soluciones digitales que resuelvan problemas reales de inventario, stock y gestión operativa.
+<br>🚀 Mi Enfoque para 2026 Actualmente centrado en dominar el ecosistema Full Stack, con un compromiso de código diario.<br>Front-end: Creando interfaces limpias y funcionales con HTML5, CSS3 y JavaScript moderno. * Back-end: Explorando la potencia de PHP y MySQL para la gestión de datos. * Objetivo: Desarrollar soluciones digitales que resuelvan problemas reales de inventario, stock y gestión operativa.
 
 
 ## 🌐 Socials:
