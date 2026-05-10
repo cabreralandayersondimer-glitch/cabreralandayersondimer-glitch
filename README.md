@@ -2,9 +2,7 @@
 
 :computer: Backend developer 👤
 
-🎂: 00011011/00001001
-
-Fan de las camionetas 🛻
+Day: 00011011
 
 # 💫 About Me:
 <br>🚀 Mi Enfoque para 2026 Actualmente centrado en dominar el ecosistema Full Stack, con un compromiso de código diario.<br>
