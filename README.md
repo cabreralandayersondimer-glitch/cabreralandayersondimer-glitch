@@ -6,10 +6,6 @@ Day: 00011011
 
 # 💫 About Me:
 <br>🚀 Mi Enfoque para 2026 Actualmente centrado en dominar el ecosistema Full Stack, con un compromiso de código diario.<br>
-* Front-end: Creando interfaces limpias y funcionales con HTML5, CSS3 y JavaScript moderno. 
-* Back-end: Explorando la potencia de PHP y MySQL para la gestión de datos. 
-* Objetivo: Desarrollar soluciones digitales que resuelvan problemas reales de inventario, stock y gestión operativa.
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/cl.dimery)
